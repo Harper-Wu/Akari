@@ -1,6 +1,6 @@
 # Akari
 
-This is a uni project for Java Unit, the requriement is to create a game - Akari. Watch it on[ Youtube](https://youtu.be/Xy9lOy2HI88).
+This is a uni project for Java Unit, the requriement is to create a game - Akari. Watch it on[ Youtube](https://youtu.be/eV7F2Rx6dj8).
 
 Akari is also known as Light Up, a puzzle game. [Light Up (puzzle) - Wikipedia](<https://en.wikipedia.org/wiki/Light_Up_(puzzle)>)
 
